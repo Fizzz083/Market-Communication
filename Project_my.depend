@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1559926996 source:c:\users\mustafiz arman\documents\project_euler\proect_my\main.cpp
+	"Owner.H"
+	"worker.h"
+	"user.h"
+
+1559926272 c:\users\mustafiz arman\documents\project_euler\proect_my\owner.h
+	"organization.h"
+	"conversation.h"
+
+1559921711 c:\users\mustafiz arman\documents\project_euler\proect_my\bank.h
+	<bits/stdc++.h>
+
+1559922931 c:\users\mustafiz arman\documents\project_euler\proect_my\organization.h
+	"Bank.H"
+
+1559931300 c:\users\mustafiz arman\documents\project_euler\proect_my\worker.h
+
+1559880649 c:\users\mustafiz arman\documents\project_euler\proect_my\user.h
+
+1559931184 c:\users\mustafiz arman\documents\project_euler\proect_my\conversation.h
+	<bits/stdc++.h>
+
+1561221576 source:c:\users\mustafiz arman\desktop\mustafiz_doc\project_fizzz\main.cpp
+	"Owner.H"
+	"worker.h"
+	"user.h"
+
+1561218730 c:\users\mustafiz arman\desktop\mustafiz_doc\project_fizzz\owner.h
+	"organization.h"
+
+1561222033 c:\users\mustafiz arman\desktop\mustafiz_doc\project_fizzz\organization.h
+	"Bank.H"
+	"conversation.h"
+
+1560334392 c:\users\mustafiz arman\desktop\mustafiz_doc\project_fizzz\bank.h
+	<bits/stdc++.h>
+
+1561221187 c:\users\mustafiz arman\desktop\mustafiz_doc\project_fizzz\conversation.h
+	<bits/stdc++.h>
+
+1561221185 c:\users\mustafiz arman\desktop\mustafiz_doc\project_fizzz\worker.h
+
+1560334807 c:\users\mustafiz arman\desktop\mustafiz_doc\project_fizzz\user.h
+
+1561485409 source:d:\2_1\cse 2101\project_fizzz\main.cpp
+	"Owner.H"
+	"worker.h"
+	"user.h"
+
+1561470269 d:\2_1\cse 2101\project_fizzz\owner.h
+	"organization.h"
+
+1561470269 d:\2_1\cse 2101\project_fizzz\organization.h
+	"Bank.H"
+	"conversation.h"
+
+1561470844 d:\2_1\cse 2101\project_fizzz\bank.h
+	<bits/stdc++.h>
+
+1561538374 d:\2_1\cse 2101\project_fizzz\conversation.h
+	<bits/stdc++.h>
+
+1561221185 d:\2_1\cse 2101\project_fizzz\worker.h
+
+1561470891 d:\2_1\cse 2101\project_fizzz\user.h
+
+1561540162 source:e:\project_fizzz\main.cpp
+	"Owner.H"
+	"worker.h"
+	"user.h"
+
+1561540285 e:\project_fizzz\owner.h
+	"organization.h"
+
+1561470269 e:\project_fizzz\organization.h
+	"Bank.H"
+	"conversation.h"
+
+1561470844 e:\project_fizzz\bank.h
+	<bits/stdc++.h>
+
+1561539913 e:\project_fizzz\conversation.h
+	<bits/stdc++.h>
+
+1561540285 e:\project_fizzz\worker.h
+
+1561540399 e:\project_fizzz\user.h
+
