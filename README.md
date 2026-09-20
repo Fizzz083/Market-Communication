@@ -64,3 +64,9 @@ Local text-file persistence
 ## Important Note
 
 The diagrams and documentation distinguish current implementation from recommended production architecture. The production architecture sections are recommendations, not features currently implemented in the repository.
+
+## Important docs:
+1. Features: https://github.com/Fizzz083/Market-Communication/blob/master/FEATURES.md
+2. Flow Diagrams: https://github.com/Fizzz083/Market-Communication/blob/master/FLOW_DIAGRAMS.md
+3. Project overview: https://github.com/Fizzz083/Market-Communication/blob/master/PROJECT_OVERVIEW.md
+4. Technology architechture: https://github.com/Fizzz083/Market-Communication/blob/master/TECHNOLOGY_ARCHITECTURE.md
